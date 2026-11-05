@@ -2,7 +2,7 @@
 Add / Replace IVA and Props in-game (and more)
 
 Closed Beta (26/11/05)
-*Testing exclusively on the JSIndustries Discord server.*
+*Testing exclusively on the [JSIndustries Discord server](https://discord.gg/72hcxvaSzz).*
 
 This build is intended for closed beta testing only.
 Do not redistribute, reupload, or share this build outside the server without permission.
