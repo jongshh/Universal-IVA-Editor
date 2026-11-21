@@ -1,5 +1,7 @@
 # Universal-IVA-Editor
 
+<img width="1280" height="720" alt="Thumb" src="https://github.com/user-attachments/assets/3b861b73-bd2b-43d7-a291-3e82f69bca6e" />
+
 Add / replace IVA and props in-game — and more.
 
 **Public release: 0.5.3** · KSP 1.12.x · [MIT License](LICENSE)
