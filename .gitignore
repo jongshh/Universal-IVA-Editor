@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+GameData/UniversalIVAEditor/Plugins/*.dll
+dist/
+Release/
+.vs/
